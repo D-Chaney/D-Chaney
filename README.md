@@ -1,4 +1,4 @@
-![Mindful Full-Stack (Designer and Developer)](https://github.com/D-Chaney/D-Chaney/blob/main/LinkedIn_Banner.png?raw=true)
+![Profile Banner](https://github.com/D-Chaney/D-Chaney/blob/main/LinkedIn_Banner.png?raw=true)
 
 # Hi there 👋, Im **Dominic**
 
