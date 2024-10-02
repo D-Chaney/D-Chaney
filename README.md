@@ -6,10 +6,6 @@
 
 <h4>I'm a <b>full-stack developer</b> who loves building application with different technologies. I've always had knack for innovation. All of the codeing projects on this profile are built from the ground up, from planning and designing, to implementation and security. I am always up for new challenges as I am here to bring your visions to life. Hope to work with you soon!</h4>
 
-#
-
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/D-Chaney"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/D-Chaney"><img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=D-Chaney.D-Chaney&right_color=cornflowerblue&left_text=Visitors"  />
-
 ## 💻 Tech Stack:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
@@ -47,6 +43,8 @@
 </div>
 
 ###
+
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/D-Chaney"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/D-Chaney"><img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=D-Chaney.D-Chaney&right_color=cornflowerblue&left_text=Visitors"  />
 
 
 
